@@ -6,8 +6,4 @@ layout: default
 
 <br>
 
-{% include 0000-01-02-Rainbowlight12138.md %}
-
-<br>
-
 
